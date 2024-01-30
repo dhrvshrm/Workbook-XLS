@@ -1,4 +1,4 @@
-#Excel Clone
+# Excel Clone
 
 This project is a simple Excel clone implemented using HTML, CSS, and JavaScript. It allows users to create, edit, and manage Excel-like sheets in a web browser.
 
