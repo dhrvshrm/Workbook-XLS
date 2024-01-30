@@ -9,3 +9,8 @@ This project is a simple Excel clone implemented using HTML, CSS, and JavaScript
 - Basic mathematical operations
 - Formatting options (font style, size, bold, italic, etc.)
 - Undo and redo functionality
+
+### Prerequisites
+
+- A modern web browser
+- Internet connection (for certain features or libraries)
